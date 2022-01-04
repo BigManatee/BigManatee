@@ -26,6 +26,6 @@
 
 ## ❓
 
-[![Splash](https://api.tyler.ac/github/shield.php?data=splash&y=z)](https://api.tyler.ac/splashes/)
+[![Splash](https://api.tyler.ac/github/shield.php?)](https://api.tyler.ac/splashes/)
 
 ---
