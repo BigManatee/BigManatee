@@ -28,4 +28,6 @@
 
 [![Splash](https://api.tyler.ac/github/shield.php?)](https://api.tyler.ac/splashes/)
 
+<!--START_SECTION:activity-->
+
 ---
