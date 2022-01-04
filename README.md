@@ -24,10 +24,12 @@
 ![Windows](https://img.icons8.com/color/30/windows-10.png)
 ![Linux](https://img.icons8.com/color/30/linux.png)
 
-## ❓
+## splash
 
 [![Splash](https://api.tyler.ac/github/shield.php?)](https://api.tyler.ac/splashes/)
 
 <!--START_SECTION:activity-->
+
+![Metrics](https://github.com/BigManatee/BigManatee/blob/main/github-metrics.svg)
 
 ---
