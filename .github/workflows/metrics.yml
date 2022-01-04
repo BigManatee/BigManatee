@@ -48,10 +48,6 @@ jobs:
           plugin_notable: yes
           plugin_notable_filter: stars:>100
           plugin_notable_repositories: yes
-
-          # Isocalendar plugin
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
           
           #Comment reactions
           plugin_reactions: yes
