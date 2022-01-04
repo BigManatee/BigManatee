@@ -1,16 +1,31 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%232EA928&size=24&center=true&vCenter=true&width=970&lines=tyler;manatee;internet+janitor;web+dev;motivational+speaker+when+paid)](https://git.io/typing-svg)
+---
 
-<!--
-**BigManatee/BigManatee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- markdownlint-disable MD033 -->
+<a href="https://placekitten.com/"><img src="https://placekitten.com/720/1080?image=4" width="250" align="right" alt="meow"/></a>
+<!-- markdownlint-enable MD033 -->
 
-Here are some ideas to get you started:
+[tyler.ac](https://tyler.ac) • [twitter](https://twitter.com/tjamesop)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## technologies
+
+![PHP](https://img.icons8.com/color/30/php.png)
+![SQL](https://img.icons8.com/color/30/sql.png)
+![HTML5](https://img.icons8.com/color/30/html-5.png)
+![CSS3](https://img.icons8.com/color/30/css3.png)
+![JavaScript](https://img.icons8.com/color/30/javascript.png)
+![NodeJS](https://img.icons8.com/color/30/nodejs.png)
+![SASS](https://img.icons8.com/color/30/sass.png)
+![WordPress](https://img.icons8.com/color/30/wordpress.png)
+![OpenCart](https://img.icons8.com/color/30/opencart.png)
+![NPM](https://img.icons8.com/color/30/npm.png)
+![Git](https://img.icons8.com/color/30/git.png)
+![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+![Windows](https://img.icons8.com/color/30/windows-10.png)
+![Linux](https://img.icons8.com/color/30/linux.png)
+
+## ❓
+
+[![Splash](https://api.tyler.ac/github/shield.php?data=splash&y=z)](https://api.tyler.ac/splashes/)
+
+---
