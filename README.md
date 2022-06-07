@@ -24,9 +24,9 @@
 ![Windows](https://img.icons8.com/color/30/windows-10.png)
 ![Linux](https://img.icons8.com/color/30/linux.png)
 
-## splash
-
 [![Splash](https://api.tyler.ac/github/shield.php?)](https://api.tyler.ac/splashes/)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bigmanatee&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:activity-->
 
