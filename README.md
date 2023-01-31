@@ -5,7 +5,7 @@
 <a href="https://placekitten.com/"><img src="https://placekitten.com/720/1080?image=4" width="250" align="right" alt="meow"/></a>
 <!-- markdownlint-enable MD033 -->
 
-[tyler.ac](https://tyler.ac) • [twitter](https://twitter.com/tjamesop)
+[manatee.sh](https://manatee.sh) • [twitter](https://twitter.com/tjamesop)
 
 ## technologies
 
@@ -24,7 +24,7 @@
 ![Windows](https://img.icons8.com/color/30/windows-10.png)
 ![Linux](https://img.icons8.com/color/30/linux.png)
 
-[![Splash](https://api.tyler.ac/github/shield.php?)](https://api.tyler.ac/splashes/)
+[![Splash](https://api.manatee.sh/github/shield.php?)](https://api.manatee.sh/splashes/)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bigmanatee&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
 
